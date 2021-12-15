@@ -24,7 +24,7 @@ http://xxx.xxxx.xxx.xxx:81
 # Step 6 
 Login using :
 Username : admin@example.com
-PAssword : chnageme
+PAssword : changeme
 
 # Step 7
 Important Step !!!
